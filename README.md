@@ -1,4 +1,5 @@
-# project_three
+# Project 3
+By: Kacey Eggink, Jon Chepkevich, Rahul Dahya, Jared Adler
 
 # Predicting the 2019-20 NBA rookies classes' 2nd Year Box Plus Minus
 
